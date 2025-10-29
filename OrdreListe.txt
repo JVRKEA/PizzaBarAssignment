@@ -1,0 +1,1 @@
+Ordrenummer: 0;Dato: 31-03-2025;Navn: Ted;Pizzanummer: [1, 2, 3, 4];Afhentningstidspunkt: 12:00
